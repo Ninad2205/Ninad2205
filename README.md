@@ -57,12 +57,12 @@ Integrated with **Google Sheets** to crowdsource suggestions from visitors.
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/your-link)  
-- 🧑‍💻 [Portfolio Website](https://your-portfolio-link.com) *(if any)*  
-- 📬 Email: youremail@example.com  
-- 🌟 [GitHub](https://github.com/yourusername)
+- 🧑‍💻 [Leetcode Profile](https://leetcode.com/u/Ninad2205)  
+- 📬 Email: jadhavninad2020280@gmail.com 
+- 🌟 [GitHub](https://github.com/Ninad2205)
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> “Code is like humor. When you have to explain it, it’s bad.”
 
 Thanks for visiting! Don't forget to ⭐️ some of my repos if you like them! 😊
